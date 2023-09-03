@@ -2,5 +2,5 @@
 ### Hello world, from termux user!👋
 <p align=left> <img src=https://komarev.com/ghpvc/?username=termuxhackers-id alt=termuxhackers.id /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=termuxhackers-id&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/termuxhackers-id/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=termuxhackers-id&layout=compact&theme=dark)](https://github.com/termuxhackers-id/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=termuxhackers-id&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/termuxhackers-id/termuxhackers-id)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=termuxhackers-id&layout=compact&theme=dark)](https://github.com/termuxhackers-id/termuxhackers-id)
